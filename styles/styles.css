@@ -1,8 +1,6 @@
 body {
-    background-image: url(./img/background.jpg);
-    background-color: rgba(0, 0, 0, 0.6);
-    background-blend-mode: luminosity;
-    
+    background-image: url("/img/background.jpg") 
+
     
 }
 .cercle {
@@ -11,9 +9,7 @@ body {
     background-color: black;
 
 }
-header{
-    /*background-color: aqua;*/
-}
+
 nav{
     /* background-color: lightcoral;*/
     margin-bottom: 10px;
